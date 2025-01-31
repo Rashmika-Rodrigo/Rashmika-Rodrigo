@@ -22,7 +22,7 @@ I'm a **Software Engineering undergraduate** with a passion for **web developmen
 
 ### 📫 Connect With Me
 - 🌐 **Portfolio:** [portfolio-link.com](#)
-- 💼 **LinkedIn:** [linkedin.com/in/rashmika-rodrigo](#)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/rashmika-rodrigo/](#)
 - 📧 **Email:** [wdrrrodrigo@gmail.com](#)
 
 ---
