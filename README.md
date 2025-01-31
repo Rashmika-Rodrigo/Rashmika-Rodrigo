@@ -7,7 +7,6 @@ I'm a **Software Engineering undergraduate** with a passion for **web developmen
 ### 🚀 About Me
 - 🎓 **Undergraduate** in Software Engineering
 - 💡 Interested in **Web Development, Mobile Appication Development, Java, Python, System Design, and many more**
-- 🛠️ Exploring **DevOps, Cloud Computing, and Microservices**
 - 📚 Always learning new technologies and improving my coding skills
 
 ---
@@ -21,8 +20,8 @@ I'm a **Software Engineering undergraduate** with a passion for **web developmen
 ---
 
 ### 📫 Connect With Me
-- 💼 **LinkedIn:** [click here](https://www.linkedin.com/in/rashmika-rodrigo/))
-- 📧 **Email:** [click here](wdrrrodrigo@gmail.com)
+- 💼 **LinkedIn:** [rashmika-rodrigo](https://www.linkedin.com/in/rashmika-rodrigo/)
+- 📧 **Email:** wdrrrodrigo@gmail.com
 
 ---
 
